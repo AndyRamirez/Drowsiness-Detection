@@ -5,8 +5,7 @@ In this project a drowsiness detector is implemented using YOLO. The training wa
 This project was developed in python programming language. 
 The problem of drowsiness is something very common in people who perform activities such as surveillance, driving vehicles, among other activities  [^1]. Because of this, several algorithms based on artificial intelligence have been developed to detect drowsiness states.
 
-![Imagen1](https://user-images.githubusercontent.com/44073142/173011408-ecbcee06-1166-45ac-af2c-0426c8440bb6.png)
-
+![Imagen1](https://user-images.githubusercontent.com/44073142/173012053-9116f6c5-398c-4f94-8a49-836d5be40aa5.png)
 
 ## Problem Formulation
 Drowsiness in drivers has been one of the main causes of traffic accidents [^2].
@@ -21,8 +20,7 @@ Studies from various countries show fatigue as responsible for between 20-30% of
 ## Near Infrared NIR
 The near infrared (NIR) is a subset of the infrared band of the electromagnetic spectrum, covering wavelengths ranging from 0.7 to 1.4 microns. This wavelength is outside the range of what humans can see and sometimes provides clearer detail than can be achieved with visible light images [^6]. In the following figures we can see the electromagnetic spectrum as well as where the infrared band is located and the difference between a visible light image and a near infrared image.
 
-
-![infra](https://user-images.githubusercontent.com/44073142/173011736-6c02e63a-cd34-414f-9c35-728eed309610.png)
+![infra](https://user-images.githubusercontent.com/44073142/173011983-a0522ba2-2817-443f-af33-683a9665c13f.png)
 ![vis](https://user-images.githubusercontent.com/44073142/173007179-2b4288cf-1033-430d-9752-54362a09613d.png)
 
 ## Database Description
