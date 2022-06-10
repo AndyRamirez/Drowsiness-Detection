@@ -43,6 +43,8 @@ Once the training is completed, the network is tested with the test images.
 ![drowsiness](https://user-images.githubusercontent.com/44073142/173009910-1b3d5b6e-949d-415c-8be1-fdd0bc67a424.png)
 ![no-drowsiness](https://user-images.githubusercontent.com/44073142/173010283-18f1d72b-301f-45d3-965b-3ea93efb08b6.png)
 
+## Conclusions
+The YOLO custom object detector allows us to train the network with our own images of what we want to detect, in this project we intended to detect drowsiness in near infrared images. A YOLOv4 detector was used, which was trained with over 500 images containing two classes, Drowsiness and No Drowsiness. Good results were obtained, however, they could be improved, because in some images the detector classifies in both classes at the same time. 
 
 [^1]: M. PAEZ y E. ABARCA, “Herramientas para la seguridad en la movilidad, modelos predictivos de somnolencia en conductores”
 [^2]: Chávez, L. G. (2018). La fatiga al conducir. Recuperado de: https://www.antp.org.mx/revista/86/articulo4.pdf.
